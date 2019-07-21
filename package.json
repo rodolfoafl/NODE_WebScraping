@@ -1,0 +1,24 @@
+{
+  "name": "NodeWebScraping",
+  "version": "1.0.0",
+  "description": "NodeWebScraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodolfoafl/NodeWebScraping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodolfoafl/NodeWebScraping/issues"
+  },
+  "homepage": "https://github.com/rodolfoafl/NodeWebScraping#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0"
+  }
+}
